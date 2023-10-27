@@ -246,6 +246,9 @@ Aくんがやってきたことは、全てオブジェクト指向に則った�
 
 ![ロボットと仲良くしている男の子のイラスト](https://1.bp.blogspot.com/-QATfTV0JSZI/VSufK9CmY3I/AAAAAAAAs3g/l_eF5PRAAlM/s800/friends_robot.png =200x)
 
+さらにこちらの記事で、オブジェクト指向において重要な「3大要素」を解説しています。
+興味がありましたら、ぜひご一読ください。
 
+https://zenn.dev/makoto00000/articles/33aa4099ce3bcd
 
 
